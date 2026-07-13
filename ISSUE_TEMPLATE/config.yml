@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Cross-repository architectural question
+    url: https://github.com/YOUR_ORG/.github/discussions
+    about: For questions spanning more than one repository, start a Discussion here rather than an issue in a single repo.
+  - name: Security vulnerability
+    url: https://github.com/YOUR_ORG/.github/security/policy
+    about: Do not open a public issue for security vulnerabilities — follow the responsible disclosure process in SECURITY.md instead.

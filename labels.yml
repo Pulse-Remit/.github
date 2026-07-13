@@ -1,0 +1,59 @@
+- name: "good first issue"
+  color: "7057ff"
+  description: "Good for newcomers — no deep Soroban knowledge required"
+
+- name: "help wanted"
+  color: "008672"
+  description: "Extra attention is needed"
+
+- name: "documentation"
+  color: "0075ca"
+  description: "Improvements or additions to documentation"
+
+- name: "bug"
+  color: "d73a4a"
+  description: "Something isn't working"
+
+- name: "frontend"
+  color: "e4e669"
+  description: "Frontend / Next.js / UI work"
+
+- name: "backend"
+  color: "0e8a16"
+  description: "Backend / Express / Prisma work"
+
+- name: "smart-contract"
+  color: "b60205"
+  description: "Soroban Rust smart contract work"
+
+- name: "testing"
+  color: "f9d0c4"
+  description: "Adding or improving tests"
+
+- name: "QA"
+  color: "fef2c0"
+  description: "Quality assurance, exploratory testing"
+
+- name: "design"
+  color: "e99695"
+  description: "UI/UX design or visual improvements"
+
+- name: "research"
+  color: "c5def5"
+  description: "Research, analysis, or ecosystem investigation"
+
+- name: "enhancement"
+  color: "a2eeef"
+  description: "New feature or improvement to existing functionality"
+
+- name: "performance"
+  color: "fbca04"
+  description: "Performance optimization"
+
+- name: "security"
+  color: "e11d48"
+  description: "Security-related issue or improvement"
+
+- name: "Stellar Wave"
+  color: "7B61FF"
+  description: "Stellar Wave Program issue — eligible for USDC rewards on Drips"

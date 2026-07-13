@@ -1,0 +1,17 @@
+# Code owners — review required from listed owners for changes to these paths
+
+# Default: all files
+*                           @maintainer
+
+# Smart contracts — require extra review
+/contracts/                 @maintainer
+
+# Backend API
+/backend/src/               @maintainer
+
+# Frontend
+/frontend/app/              @maintainer
+/frontend/components/       @maintainer
+
+# Deployment scripts — require maintainer sign-off
+/scripts/                   @maintainer
